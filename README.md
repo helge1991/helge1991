@@ -11,7 +11,7 @@ You can access my thesis in German [here](https://1drv.ms/b/s!ArkbOV1h0n0ogSOFU8
 🍄 I have a great passion for collecting eatable mushrooms. That is the reason, why I chose the use of machine learning for mushroom growth as my final project to be able to improve my own search in Berlin and Brandenburg. The most important parts of my project was data acquisition with web scraping, regression models for predictive analytics and object detection with Roboflow and YOLOv8. 
 You can access my findings in form of a Powerpoint presentation [here](https://1drv.ms/b/s!ArkbOV1h0n0ogSS4tmV4NGhmRQTj?e=1pWRhC). If you want to see a 2-minute video extract of my final presentation on 4th of April 2023 in the Spiced Academy Berlin you can access it [here](https://www.linkedin.com/posts/helge-r%C3%B6lleke-a3474a135_datascience-deeplearning-machinelearning-activity-7051878395869065216-H04H/?utm_source=share&utm_medium=member_desktop).
  
-🌳 I’m currently working with a team on the data project "Girls in Tech Hackathon: Hack for the environment" until Aug 23, 2023.
+🌳 I’m was working with a team on the data project "Girls in Tech Hackathon: Hack for the environment" until Aug 23, 2023. In a group of 3 people we have created an app on Streamlit that guides accurate waste identification by the use of image recognition. For more informations about the project, the outcome and the Streamlit application you can enter the repository [here](https://github.com/helge1991/TrashBestie).
 
 ### I am open to work!
 
